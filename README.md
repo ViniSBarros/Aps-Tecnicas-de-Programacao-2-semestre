@@ -1,2 +1,2 @@
 # Aps-Tecnicas-de-Programacao-2-semestre
-Tradutor Élfico-Computacional
+Tradutor Élfico-Computacional em C
